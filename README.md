@@ -1,3 +1,3 @@
 # Repo
 
-Writing the description of project and other important details
+Writing the description of the project and other important details.
